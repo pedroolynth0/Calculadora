@@ -2,7 +2,7 @@
 
 Este é um aplicativo que funciona como uma calculadora comum e também pode calcular integrais. Para usar a calculadora, basta digitar as expressões matemáticas diretamente na caixa de entrada e pressionar o botão "calcular".
 
-![Exemplo de imagem](./Calculadora/calculadora/qrc/calculadora.png)
+![Exemplo de imagem](./calculadora/qrc/calculadora.png)
 
 ## Como usar a calculadora?
 
