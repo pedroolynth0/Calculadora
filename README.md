@@ -2,6 +2,8 @@
 
 Este é um aplicativo que funciona como uma calculadora comum e também pode calcular integrais. Para usar a calculadora, basta digitar as expressões matemáticas diretamente na caixa de entrada e pressionar o botão "calcular".
 
+![Exemplo de imagem](./Calculadora/calculadora/qrc/calculadora.png)
+
 ## Como usar a calculadora?
 
 A calculadora funciona com as operações matemáticas padrão, como adição (+), subtração (-), multiplicação (*), divisão (/) e exponenciação (**). Para realizar uma multiplicação, é necessário o uso do asterisco: 2*x.
