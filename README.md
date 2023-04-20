@@ -2,8 +2,9 @@
 
 Este é um aplicativo que funciona como uma calculadora comum e também pode calcular integrais. Para usar a calculadora, basta digitar as expressões matemáticas diretamente na caixa de entrada e pressionar o botão "calcular".
 
+
 <p align="center">
-  <img src="./calculadora/qrc/calculadora.png" alt="Exemplo calculadora" width="400" height="300">
+  <img src="./calculadora/qrc/calculadora.png" alt="Exemplo de imagem" width="400" height="300">
 </p>
 
 ## Como usar a calculadora?
