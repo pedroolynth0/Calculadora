@@ -4,7 +4,7 @@ Este é um aplicativo que funciona como uma calculadora comum e também pode cal
 
 
 
-  <img src="./calculadora/qrc/calculadora.png" alt="Exemplo de imagem" width="400" height="300">
+ <img src="./calculadora/qrc/calculadora.png" alt="Exemplo de imagem" width="400" height="300">
 
 
 ## Como usar a calculadora?
